@@ -1,0 +1,11 @@
+data/
+*.sgy
+*.h5
+*.csv
+*.npz
+*.npy
+*.mat
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+ 
